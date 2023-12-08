@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="result_message">Tu IMC es: %.2f</string>
+    <string name="error_message">\"Error\"</string>
+    <string name="add_height">Texto para agregar altura</string>
+    <string name="write_height_cm">Texto para escribir altura en cm</string>
+    <string name="add_weight">Texto para agregar peso</string>
+    <string name="write_weight_kg">Texto para escribir peso en kg</string>
+    <string name="calc_imc">Texto para calcular IMC</string>
+
+</resources>
